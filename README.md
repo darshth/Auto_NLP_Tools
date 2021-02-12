@@ -10,7 +10,8 @@ I do believe that coding gives you certain edge over people who don't code.
 But, the most important skill required in any of the above 3 fields is- Understanding the Business Problem. 
 
 I have seen a lot of professionals that start coding in a single breath, whenever they are asked to solve a problem.
-- 30 Hidden Layer!
+- Neural Networks!
+- 30 Hidden Layers!
 - 4000 Neurons!
 - Leaky Relu Function!
 And what not. 
