@@ -1,7 +1,7 @@
 # Vault The Code- Auto Python Tools
 
 <p align="center">
-<img src="https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/def():-logos_white.png" alt="alt text" width="500" height="500">
+<img src="https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/def():-logos_transparent.png" alt="alt text" width="500" height="500">
   </p>
 
 ## Making AI simple, one tool at a time!
