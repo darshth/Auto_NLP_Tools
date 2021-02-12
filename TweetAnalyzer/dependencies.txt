@@ -1,0 +1,11 @@
+# Regex
+import re
+
+#Tweepy
+*import tweepy
+*from tweepy import OAuthHandler
+
+#TextBlob
+from textblob import TextBlob
+
+NOTE: This Application requires a Twitter Developer Account and the associated keys with a created app.
