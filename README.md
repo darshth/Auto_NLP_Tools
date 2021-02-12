@@ -1,6 +1,6 @@
 # Vault The Code- Auto Python Tools
 
-![alt text](https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/def():-logos_white.png | width=100))
+![alt text](https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/def():-logos_white.png =250x250)
 
 ## Making AI simple, one tool at a time!
 
