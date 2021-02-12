@@ -5,7 +5,7 @@ The file can be simply ran using Command Line Interface on your computer or can 
 
 ## Use on your own Machine
 
--Download this autocleaner.py on your computer.
+-Download the autocleaner.py file on your computer.
 
 -Install the dependencies.
 
