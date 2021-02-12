@@ -1,1 +1,8 @@
+# Tweet Analyzer
+
+## Auto Text Cleaner is a tool to parse tweets using a keyword or a hashtag and automatically analyzing the sentiment of the tweets.
+The file can be simply ran using Command Line Interface on your computer or can also be imported in another .py file. 
+
+![alt text](https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/cleaner_demo1.png)
+![alt text](https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/cleaner_demo2.png)
 
