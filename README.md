@@ -7,7 +7,7 @@ When I asked a few people- What is the main skill required for Machine Learning,
 - A unanimous answer was 'CODING SKILLS'.
 
 I do believe that coding gives you certain edge over people who don't code.
-But, The most important skill required in any of the above 3 fields is- Understanding the Business Problem. 
+But, the most important skill required in any of the above 3 fields is- Understanding the Business Problem. 
 
 I have seen a lot of professionals that start coding in a single breath, whenever they are asked to solve a problem.
 - 30 Hidden Layer!
