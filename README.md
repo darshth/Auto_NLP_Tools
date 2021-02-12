@@ -25,4 +25,5 @@ Vault the code is a collection of Python scripts that I developed to reduce the 
 We have been recycling and reusing since years now. It is the time for us to recycle and reuse the codes that we are creating.
 It doesn't have a cool and sassy Front-End (As of yet!). But these scripts are easily accessible via Python 3+ installed on your computer and using your computer's Terminal function.
 
-As of Febraury 11, 2020, Vault the code consists of an Auto-Cleaner for NLP text cleaning.
+## Updates
+February 11, 2020- Auto Text Cleaner added.
