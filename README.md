@@ -19,6 +19,7 @@ And what not.
 *Coding is art! But your business problem is your paintbrush! And your solution's performance isn't judged by your accuracy acore, F-score etc., but by the problem that you solve, how well you solve it and to the extent that it is useful to the person who required your Solution.*
 
 ### So I decided to come-up with Vault The Code- to automate the redundant parts of code and make AI tools more accessible. 
+*Disclaimer- No Fancy Coding Involved.
 
 ## About
 
