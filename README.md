@@ -37,3 +37,6 @@ We have been recycling and reusing for years now. It is time for us to recycle a
 February 11, 2021- Auto Text Cleaner added.
 
 February 11, 2021- Auto Tweet Parser and Sentiment Classifier added.
+
+## Upcoming Updates
+Image to Text App.
