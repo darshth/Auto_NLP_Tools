@@ -26,6 +26,6 @@ We have been recycling and reusing since years now. It is the time for us to rec
 It doesn't have a cool and sassy Front-End (As of yet!). But these scripts are easily accessible via Python 3+ installed on your computer and using your computer's Terminal function.
 
 ## Updates
-February 11, 2020- Auto Text Cleaner added.
+February 11, 2021- Auto Text Cleaner added.
 
-February 11, 2020- Auto Tweet Parser and Sentiment Classifier added.
+February 11, 2021- Auto Tweet Parser and Sentiment Classifier added.
