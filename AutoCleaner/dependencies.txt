@@ -1,0 +1,13 @@
+# Pandas
+import pandas as pd
+
+# Natural Language Toolkit (NLTK)
+* Stopwords
+from nltk.corpus import stopwords
+stop_words = stopwords.words('english')
+
+* Tokenizer
+from nltk.tokenize import word_tokenize
+
+# Regex
+import regex as re
