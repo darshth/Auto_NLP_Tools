@@ -27,3 +27,4 @@ It doesn't have a cool and sassy Front-End (As of yet!). But these scripts are e
 
 ## Updates
 February 11, 2020- Auto Text Cleaner added.
+February 11, 2020- Auto Tweet Parser and Sentiment Classifier added.
