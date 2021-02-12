@@ -1,5 +1,5 @@
 # Vault The Code- Auto Python Tools
-## Making NLP simple, one tool at a time!
+## Making AI simple, one tool at a time!
 
 ## Inspiration
 
