@@ -24,14 +24,14 @@ I have seen many professionals start coding in a single breath whenever they are
 
 *Coding is art! But your business problem is your paintbrush! And your solution's performance isn't judged by your accuracy score, F-score, etc., but by the problem you solve, how well you solve it, and the extent to which it is helpful to the person who required your Solution.*
 
-### So I decided to come-up with vault the code- to automate the redundant parts of code and make AI tools more accessible.
+### So I decided to come-up with vault the code- To make AI, ML and Data Science accessible to anyone who has a computer and to remove the redundancies involved in coding.
 *Disclaimer- No Fancy Coding Involved.
 
 ## About
 
-Vault the code is a collection of Python programs that I developed to reduce the redundant coding everywhere. 
-We have been recycling and reusing for years now. It is time for us to recycle and reuse the codes that we are creating. It doesn't have a cool and sassy Front-End
-(As of yet!). But these programs are easily accessible via Python 3+ installed on your computer and using your computer's Terminal.
+Vault The Code is a collection of Python programs/apps that I developed to give the power of Data in the hands of people who know how to solve a problem but don’t have a formal background in coding. 
+
+Vault The Code also reduces redundant coding everywhere. We have been recycling and reusing for years now. It is time for us to recycle and reuse the codes that we are creating. It doesn't have a cool and sassy Front-End (As of yet!). But these programs are easily accessible via Python 3+ installed on your computer and using your computer's Terminal.
 
 ## Updates
 February 11, 2021- Auto Text Cleaner added.
