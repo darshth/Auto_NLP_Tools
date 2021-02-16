@@ -24,7 +24,7 @@ I have seen many professionals start coding in a single breath whenever they are
 
 *Coding is art! But your business problem is your paintbrush! And your solution's performance isn't judged by your accuracy score, F-score, etc., but by the problem you solve, how well you solve it, and the extent to which it is helpful to the person who required your Solution.*
 
-### So I decided to come-up with vault the code- To make AI, ML and Data Science accessible to anyone who has a computer and to remove the redundancies involved in coding.
+### So I decided to come-up with The Code Vault- To make AI, ML and Data Science accessible to anyone who has a computer and to remove the redundancies involved in coding.
 *Disclaimer- No Fancy Coding Involved.
 
 ## About
