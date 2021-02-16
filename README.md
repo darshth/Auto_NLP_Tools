@@ -1,5 +1,5 @@
-# Vault The Code- Auto Python Tools
-Visit https://www.darshth.com/vault-the-code
+# The Code Vault- Auto Python Tools
+Visit https://www.darshth.com/the-code-vault
 
 <p align="center">
 <img src="https://github.com/darshth/Vault-The-Code/blob/main/AutoCleaner/images/def():-logos_transparent.png" alt="alt text" width="500" height="500">
@@ -29,9 +29,9 @@ I have seen many professionals start coding in a single breath whenever they are
 
 ## About
 
-Vault The Code is a collection of Python programs/apps that I developed to give the power of Data in the hands of people who know how to solve a problem but don’t have a formal background in coding. 
+The Code Vault is a collection of Python programs/apps that I developed to give the power of Data in the hands of people who know how to solve a problem but don’t have a formal background in coding. 
 
-Vault The Code also reduces redundant coding everywhere. We have been recycling and reusing for years now. It is time for us to recycle and reuse the codes that we are creating. It doesn't have a cool and sassy Front-End (As of yet!). But these programs are easily accessible via Python 3+ installed on your computer and using your computer's Terminal.
+The Code Vault also reduces redundant coding everywhere. We have been recycling and reusing for years now. It is time for us to recycle and reuse the codes that we are creating. It doesn't have a cool and sassy Front-End (As of yet!). But these programs are easily accessible via Python 3+ installed on your computer and using your computer's Terminal.
 
 ## Updates
 February 11, 2021- Auto Text Cleaner added.
